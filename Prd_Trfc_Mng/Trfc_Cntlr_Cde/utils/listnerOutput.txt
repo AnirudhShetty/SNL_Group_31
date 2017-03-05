@@ -1,0 +1,24 @@
+('fec0::2', 20935, 0, 0)
+Message <NodeID> 
+  [messageType=0x0]
+  [controllerID=0x2]
+  [car_count=0x1]
+
+('fec0::2', 20935, 0, 0)
+Message <NodeID> 
+  [messageType=0x0]
+  [controllerID=0x2]
+  [car_count=0x1]
+
+('fec0::2', 20935, 0, 0)
+Message <NodeID> 
+  [messageType=0x0]
+  [controllerID=0x2]
+  [car_count=0x0]
+
+('fec0::2', 20935, 0, 0)
+Message <NodeID> 
+  [messageType=0x0]
+  [controllerID=0x2]
+  [car_count=0x0]
+

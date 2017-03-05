@@ -1,0 +1,21 @@
+('fec0::2', 20935, 0, 0)
+Message <NodeID> 
+  [messageType=0x1]
+  [packetNo=0x7]
+  [controllerID=0x2]
+  [car_count=0x2]
+
+('fec0::2', 20935, 0, 0)
+Message <NodeID> 
+  [messageType=0x1]
+  [packetNo=0x8]
+  [controllerID=0x2]
+  [car_count=0x2]
+
+('fec0::3', 20935, 0, 0)
+Message <NodeID> 
+  [messageType=0x0]
+  [packetNo=0x12c]
+  [controllerID=0x3]
+  [car_count=0x2]
+
